@@ -1,2 +1,2 @@
 # New-Project
-Author Maria Khuzema
+Author-Maria Khuzema
